@@ -20,6 +20,7 @@ Some of the courses I've completed:
 - [CS6200 - Introduction to Operating Systems](http://omscs.gatech.edu/cs-6200-introduction-operating-systems)
 - [CS6250 - Computer Networks](http://omscs.gatech.edu/cs-6250-computer-networks)
 - [CS6262 - Network Security](http://omscs.gatech.edu/cs-6262-network-security)
+- [CS6291 - Embedded Systems Optimization](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)
 - [CS7642 - Reinforcement Learning](https://www.omscs.gatech.edu/cs-7642-reinforcement-learning)
 
 <!--
